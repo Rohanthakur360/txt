@@ -24,7 +24,7 @@
         "telegram bot",
 
         "pyrogram": {
-
+        }
     ],
 
     "env": {
